@@ -3,10 +3,6 @@ date = "2015-08-22"
 title = "About"
 +++
 
-_With this theme, it is possible to add small sections that only contains one page like this. It will automatically appears in the header, at the end._
+My name is Alan Derbyshire and I live in Manchester, UK. My attitude to life is founded on the belief that in order to flourish as an individual it’s necessary and desirable to be open to new experiences and not be riveted to particular ways of doing and thinking. I suppose my career has reflected this belief, as it began by designing products and evolved through working on spatial, architectural projects to developing applications for mapping urban data. The main difference between the beginning of my journey and now is the issue of scale. I regard applying mined data as a means of addressing urban development issues as a creative process, just as designing buildings, products or landscapes require technical knowledge as well as ideas. 
 
-Along with [Ford Prefect](https://en.wikipedia.org/wiki/Ford_Prefect_\(character\)), Dent barely escapes the Earth's destruction as it is demolished to make way for a *hyperspace bypass*. Arthur spends the next several years, still wearing his dressing gown, helplessly launched from crisis to crisis while trying to straighten out his lifestyle.  
- 
-> He rather enjoys tea, but seems to have trouble obtaining it in the far reaches of the galaxy.  
- 
-In time, he learns how to fly and carves a niche for himself as a sandwich-maker.
+I’m a firm believer in the notion of connectivity and that as we get older we become more connected with the earth and as such many of the projects I am involved with are concerned with ecological resilience. Urban regions are made up of a plethora of conflicting and complementary components from the social to the technical, but are all features of functioning eco-systems. How we make these systems better for everyone is my driving force, by applying creative thinking solutions and technology we are better equipped to answer some of the more persistent issues within urban development.

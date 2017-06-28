@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://alanderbyshire.github.io/"
 theme = "cocoa-eh-hugo-theme"
 builddrafts = true
 canonifyurls = true
@@ -7,8 +7,8 @@ languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "public"
 author = "Alexis Tacnet"
-title = "Cocoa Enhanced"
-disqusshortname = ""
+title = "Alan Derbyshire"
+disqusshortname = "alan-derbyshire-github-io"
 pluralizelisttitles = false
 
 [permalinks]
@@ -17,21 +17,21 @@ blog = "blog/:slug/"
 [params]
 dateform = "Jan 2, 2006"
 dateformfull = "Mon Jan 2 2006 15:04:05 MST"
-description = "Example blog"
-copyright = "Copyright © 2015 Nishanth Shanmugham"
+description = "Alan's website"
+copyright = "Copyright © 2017 Alan Derbyshire"
 # copyrightUrl = "https://creativecommons.org/licenses/by-sa/4.0/"
-logofile = "img/logo.png"
-faviconfile = "img/logo.png"
+logofile = "img/me-image.jpg"
+faviconfile = "img/me-image.jpg"
 highlightjs = true
 progressively = true
 share = true
 latestpostcount = 5
-github = "example"
-email = "you@example.com"
+github = "AlanDerbyshire"
+email = "akderbyshire.ad@gmailcom.com"
 linkedin = "john-example-aa80ue8è"
-twitter = "example"
-facebook = "facebook_id"
-social_banner = "img/banner.png"
+twitter = "DataTeka"
+#facebook = "facebook_id"
+social_banner = "img/me-image.jpg"
 posts_navigation = true
 # issoHost = "comments.domain.tld:1234"
 # githubRepo = "githubUsername/repositoryName"
