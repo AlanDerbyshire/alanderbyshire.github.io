@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cv on Alan Derbyshire</title>
-    <link>/categories/cv/</link>
+    <link>https://alanderbyshire.github.io/categories/cv/</link>
     <description>Recent content in Cv on Alan Derbyshire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2017 Alan Derbyshire</copyright>
     <lastBuildDate>Wed, 28 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/cv/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alanderbyshire.github.io/categories/cv/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resume</title>
-      <link>/content/resume/</link>
+      <link>https://alanderbyshire.github.io/content/resume/</link>
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/content/resume/</guid>
+      <guid>https://alanderbyshire.github.io/content/resume/</guid>
       <description></description>
     </item>
     
