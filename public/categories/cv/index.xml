@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cv on Alan Derbyshire</title>
-    <link>/categories/cv/</link>
+    <link>https://alanderbyshire.github.io/categories/cv/</link>
     <description>Recent content in Cv on Alan Derbyshire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2017 Alan Derbyshire</copyright>
     <lastBuildDate>Wed, 28 Jun 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/cv/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://alanderbyshire.github.io/categories/cv/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Resume</title>
-      <link>/content/resume/</link>
+      <link>https://alanderbyshire.github.io/content/resume/</link>
       <pubDate>Wed, 28 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>/content/resume/</guid>
+      <guid>https://alanderbyshire.github.io/content/resume/</guid>
       <description>Higher Education  2010 - 2016, Manchester Metropolitan University 1985 – 1988, University of Illinois at Champaign Urbana 1981 – 1984, Stourbridge College of Art   Qualifications  2016, Doctor of Philosophy – Architectural and Urban Resilience; Manchester School of Architecture 1988, Master of Fine Arts - Sculpture; University of Illinois at Champaign Urbana 1984, Bachelor of Arts (Hons) First Class – 3D Design; Stourbridge College of Art   Current Position DataTeka – Co founder, main area of focus – the visualization of resilient architecture and urban development through data mining and visual representation.</description>
     </item>
     
